@@ -37,7 +37,7 @@
 		<dc:title id="fulltitle">The Forerunner: His Parables and Poems</dc:title>
 		<meta property="file-as" refines="#fulltitle">Forerunner, The</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
-		<dc:subject id="subject-1">Mysticism -- Poetry</dc:subject>
+		<dc:subject id="subject-1">Mysticism--Poetry</dc:subject>
 		<dc:subject id="subject-2">Parables</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008108166</meta>
