@@ -60,6 +60,7 @@
 		<dc:creator id="author">Kahlil Gibran</dc:creator>
 		<meta property="file-as" refines="#author">Gibran, Kahlil</meta>
 		<meta property="schema:alternateName" refines="#author">Gibran Kahlil Gibran</meta>
+		<meta property="alternate-script" refines="#author">جُبْرَان خَلِيل جُبْرَان</meta>
 		<link href="https://en.wikipedia.org/wiki/Kahlil_Gibran" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79095627.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
